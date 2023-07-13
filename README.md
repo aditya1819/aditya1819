@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### 💫 About Me:
-🙋🏼‍♂️ I'm Aditya, a backend Node.js developer with 1+ year of experience. <br>🚀 I specialize in building scalable applications using Node.js, Express.js, and TypeScript. <br>📋 I have a solid understanding of RESTful APIs and microservices architecture. <br>🔦 I'm also familiar with Nest.js and GraphQL. <br>🔎 Additionally, I have a growing interest in cloud technologies and I'm actively learning AWS services. <br>I'm also exploring DevOps tools to streamline the development process. <br>👌🏼 I enjoy staying updated with industry trends and engaging in tech communities.
+🙋🏼‍♂️ I'm Aditya, a backend Node.js developer with 1+ year of experience. <br>🚀 I specialize in building scalable applications using Node.js, Express.js, and TypeScript. <br>📋 I have a solid understanding of RESTful APIs and microservices architecture. <br>🔦 I'm also familiar with Nest.js and GraphQL. <br>🔎 Additionally, I have a growing interest in cloud technologies and I'm actively learning AWS services. <br>🤖 I'm also exploring DevOps tools to streamline the development process. <br>👌🏼 I enjoy staying updated with industry trends and engaging in tech communities.
 
 
 ### 💻 Tech Stack:
